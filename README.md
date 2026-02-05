@@ -1,13 +1,19 @@
-# Introduction
+# CS:APP Lab Solutions
+Solutions for all labs in *Computer Systems: A Programmer's Perspective* (CS:APP), including complete code and runnable files.
 
-This repository is the solution for labs in the book Computer Systems: A Programmer's Perspective. 
 
-Each folder corresponds to a specific lab, including my solution and necessary files to run it.
+## Introduction
 
-If you are intersted in reading my write-up of the lab, please visit my personal website: [https://ilsao.github.io/](https://ilsao.github.io/)
+This repository contains my solutions to the labs from **Computer Systems: A Programmer's Perspective** (CS:APP), a core textbook for computer systems courses.  
+Each lab is organized into a separate folder, which includes:
+- My complete solution code
+- Necessary configuration/helper files to run the lab
 
-#  Progress
+For **detailed lab write-ups** (including problem analysis, implementation ideas, and debugging notes), visit my personal website:  
+[https://ilsao.github.io/](https://ilsao.github.io/)
 
+##  Progress
+✅ Completed | ☐ In Progress
 - [x] Data Lab
 - [x] Bomb Lab
 - [x] Attack Lab
